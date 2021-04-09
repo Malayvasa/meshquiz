@@ -2,37 +2,145 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.HomeIllustration {
+  padding: 10% 0% 2% 0%;
+  max-width: 200px;
+  /* max-height: 276px; */
+  min-width: 100px;
+  margin: auto;
+  /* margin-left: 30px; */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.CheckIllustration {
+  padding: 2% 0% 2% 0%;
+  max-width: 50px;
+  /* max-height: 276px; */
+  min-width: 20px;
+  margin: auto;
+  /* margin-left: 30px; */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.title{
+  font-family: Recoleta;
+  font-size: 36px;
+  color: #000;
+}
+.subtitle{
+  font-family: Recoleta;
+  font-size: 24px;
+  color: #4d4d4d;
+}
+
+.input{
+  padding-top: -5%;
+  font-family: Poppins;
+  text-align: center;
+  color: #4d4d4d;
+  margin:  12%;
+}
+
+.fieldName{
+  padding-top: 15%;
+  text-align: left;
+  font-size: 10px;
+}
+
+.inputField{
+  margin-top: 2%;
+  color: #000;
+}
+
+.homeButton{
+  /* max-width: 350px; */
+  width: 100%;
+  height: 50px;
+  margin-top: 15%;
+  background-color: #000;
+  border: none;
+  color: #fff;
+  border-radius: 50px;
+}
+
+::placeholder{
+  color: #ccc;
+}
+
+.questionName{
+  padding: 10% 0%;
+  font-family: Recoleta;
+  text-align: center;
+  font-size: 24px;
+}
+
+.questionCopy {
+  text-align: center;
+  margin: auto;
+  max-width: 75%;
+  font-family: Helvetica Neue;
+}
+
+.options {
+  width: 75%;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin: auto;
 }
 
-.App-link {
-  color: #61dafb;
+.nextButton{
+  /* max-width: 350px; */
+  width: 80%;
+  height: 50px;
+  margin-top: 20% ;
+  background-color: #2B44FF;
+  border: none;
+  color: #fff;
+  border-radius: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.optionButton{
+  /* max-width: 350px; */
+  width: 100%;
+  height: 50px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border-color: #666;
+  color: #000;
+  border-radius: 10px;
+}
+
+.selectedButton{
+  /* max-width: 350px; */
+  width: 100%;
+  height: 50px;
+  margin-bottom: 10px;
+  background-color: #c4c4c4;
+  border:none;
+  color: #000;
+  border-radius: 10px;
+}
+
+.submitButton{
+  /* max-width: 350px; */
+  width: 80%;
+  height: 50px;
+  margin-top: 20% ;
+  background-color: #2B44FF;
+  border: none;
+  color: #fff;
+  border-radius: 50px;
+}
+
+.wellDone {
+  padding: 20% 0% 2% 0%;
+  max-width: 275px;
+  /* max-height: 276px; */
+  min-width: 100px;
+  margin: auto;
+  /* margin-left: 30px; */
+}
+
+.End {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
