@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Malayvasa/meshquiz/static/css/main.244bb404.chunk.css",
+    "main.js": "/Malayvasa/meshquiz/static/js/main.b76b7bc9.chunk.js",
+    "main.js.map": "/Malayvasa/meshquiz/static/js/main.b76b7bc9.chunk.js.map",
+    "runtime-main.js": "/Malayvasa/meshquiz/static/js/runtime-main.f0910060.js",
+    "runtime-main.js.map": "/Malayvasa/meshquiz/static/js/runtime-main.f0910060.js.map",
+    "static/js/2.97bbba41.chunk.js": "/Malayvasa/meshquiz/static/js/2.97bbba41.chunk.js",
+    "static/js/2.97bbba41.chunk.js.map": "/Malayvasa/meshquiz/static/js/2.97bbba41.chunk.js.map",
+    "static/js/3.7b2f4062.chunk.js": "/Malayvasa/meshquiz/static/js/3.7b2f4062.chunk.js",
+    "static/js/3.7b2f4062.chunk.js.map": "/Malayvasa/meshquiz/static/js/3.7b2f4062.chunk.js.map",
+    "index.html": "/Malayvasa/meshquiz/index.html",
+    "static/css/main.244bb404.chunk.css.map": "/Malayvasa/meshquiz/static/css/main.244bb404.chunk.css.map",
+    "static/js/2.97bbba41.chunk.js.LICENSE.txt": "/Malayvasa/meshquiz/static/js/2.97bbba41.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Malayvasa/meshquiz/static/media/Recoleta.12c19788.ttf",
+    "static/media/homeIllustration.29aac778.png": "/Malayvasa/meshquiz/static/media/homeIllustration.29aac778.png",
+    "static/media/wellDone.118fa6c4.png": "/Malayvasa/meshquiz/static/media/wellDone.118fa6c4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0910060.js",
+    "static/js/2.97bbba41.chunk.js",
+    "static/css/main.244bb404.chunk.css",
+    "static/js/main.b76b7bc9.chunk.js"
+  ]
+}
