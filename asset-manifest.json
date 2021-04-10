@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/meshquiz/static/css/main.78ad7e27.chunk.css",
-    "main.js": "/meshquiz/static/js/main.b76b7bc9.chunk.js",
-    "main.js.map": "/meshquiz/static/js/main.b76b7bc9.chunk.js.map",
-    "runtime-main.js": "/meshquiz/static/js/runtime-main.8bf142cf.js",
-    "runtime-main.js.map": "/meshquiz/static/js/runtime-main.8bf142cf.js.map",
-    "static/js/2.97bbba41.chunk.js": "/meshquiz/static/js/2.97bbba41.chunk.js",
-    "static/js/2.97bbba41.chunk.js.map": "/meshquiz/static/js/2.97bbba41.chunk.js.map",
-    "static/js/3.7b2f4062.chunk.js": "/meshquiz/static/js/3.7b2f4062.chunk.js",
-    "static/js/3.7b2f4062.chunk.js.map": "/meshquiz/static/js/3.7b2f4062.chunk.js.map",
+    "main.css": "/meshquiz/static/css/main.e5996189.chunk.css",
+    "main.js": "/meshquiz/static/js/main.28a12b67.chunk.js",
+    "main.js.map": "/meshquiz/static/js/main.28a12b67.chunk.js.map",
+    "runtime-main.js": "/meshquiz/static/js/runtime-main.2d5d22a3.js",
+    "runtime-main.js.map": "/meshquiz/static/js/runtime-main.2d5d22a3.js.map",
+    "static/js/2.1d5bfe54.chunk.js": "/meshquiz/static/js/2.1d5bfe54.chunk.js",
+    "static/js/2.1d5bfe54.chunk.js.map": "/meshquiz/static/js/2.1d5bfe54.chunk.js.map",
+    "static/js/3.3e6e956a.chunk.js": "/meshquiz/static/js/3.3e6e956a.chunk.js",
+    "static/js/3.3e6e956a.chunk.js.map": "/meshquiz/static/js/3.3e6e956a.chunk.js.map",
     "index.html": "/meshquiz/index.html",
-    "static/css/main.78ad7e27.chunk.css.map": "/meshquiz/static/css/main.78ad7e27.chunk.css.map",
-    "static/js/2.97bbba41.chunk.js.LICENSE.txt": "/meshquiz/static/js/2.97bbba41.chunk.js.LICENSE.txt",
+    "static/css/main.e5996189.chunk.css.map": "/meshquiz/static/css/main.e5996189.chunk.css.map",
+    "static/js/2.1d5bfe54.chunk.js.LICENSE.txt": "/meshquiz/static/js/2.1d5bfe54.chunk.js.LICENSE.txt",
     "static/media/index.css": "/meshquiz/static/media/Recoleta.12c19788.ttf",
     "static/media/homeIllustration.29aac778.png": "/meshquiz/static/media/homeIllustration.29aac778.png",
     "static/media/wellDone.118fa6c4.png": "/meshquiz/static/media/wellDone.118fa6c4.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bf142cf.js",
-    "static/js/2.97bbba41.chunk.js",
-    "static/css/main.78ad7e27.chunk.css",
-    "static/js/main.b76b7bc9.chunk.js"
+    "static/js/runtime-main.2d5d22a3.js",
+    "static/js/2.1d5bfe54.chunk.js",
+    "static/css/main.e5996189.chunk.css",
+    "static/js/main.28a12b67.chunk.js"
   ]
 }
