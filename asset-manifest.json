@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meshquiz/static/css/main.e5996189.chunk.css",
+    "main.css": "/meshquiz/static/css/main.4835bda2.chunk.css",
     "main.js": "/meshquiz/static/js/main.28a12b67.chunk.js",
     "main.js.map": "/meshquiz/static/js/main.28a12b67.chunk.js.map",
     "runtime-main.js": "/meshquiz/static/js/runtime-main.2d5d22a3.js",
@@ -10,7 +10,7 @@
     "static/js/3.3e6e956a.chunk.js": "/meshquiz/static/js/3.3e6e956a.chunk.js",
     "static/js/3.3e6e956a.chunk.js.map": "/meshquiz/static/js/3.3e6e956a.chunk.js.map",
     "index.html": "/meshquiz/index.html",
-    "static/css/main.e5996189.chunk.css.map": "/meshquiz/static/css/main.e5996189.chunk.css.map",
+    "static/css/main.4835bda2.chunk.css.map": "/meshquiz/static/css/main.4835bda2.chunk.css.map",
     "static/js/2.1d5bfe54.chunk.js.LICENSE.txt": "/meshquiz/static/js/2.1d5bfe54.chunk.js.LICENSE.txt",
     "static/media/index.css": "/meshquiz/static/media/Recoleta.12c19788.ttf",
     "static/media/homeIllustration.29aac778.png": "/meshquiz/static/media/homeIllustration.29aac778.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.2d5d22a3.js",
     "static/js/2.1d5bfe54.chunk.js",
-    "static/css/main.e5996189.chunk.css",
+    "static/css/main.4835bda2.chunk.css",
     "static/js/main.28a12b67.chunk.js"
   ]
 }
